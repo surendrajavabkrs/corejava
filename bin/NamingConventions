@@ -1,0 +1,40 @@
+Naming Conventions:
+
+Naming conventions makes code more readble.
+
+Java Follows Camel Casing Rule -MyFirstJavaClass.   
+
+Second Word first letter should be Capital.
+
+ClassName:
+
+Always use Class name very specific to the Project you are working.
+
+It should have Noun like Student, Engineer.First letter should be Capital
+
+Variable Name:
+
+Always Use Variable Names very specific to the Projects you are Working.variables should be Small letters.
+
+Example:
+
+StudentName - sname;
+PhoneNumber - phno
+
+Method:
+
+abc()
+main()
+
+Small letetrs.
+Interface:
+
+Most of the Interface should have 'able' at the end.
+
+Runable
+Serizable
+Remote
+
+Constant:
+
+PI, DENSITY.  All letter should be CAPITALS
